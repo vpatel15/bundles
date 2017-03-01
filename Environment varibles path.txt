@@ -1,0 +1,1 @@
+C:\Program Files\nodejs;C:\Users\Vaibhav\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.2\bin;C:\Program Files\Git\bin;
